@@ -1,0 +1,26 @@
+{
+  "name": "map-box",
+  "keywords": [
+    "seed",
+    "polymer",
+    "web-components"
+  ],
+  "main": "map-box.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.1"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^2.0.0"
+  },
+  "homepage": "https://github.com/vforeman/map-box",
+  "_release": "777fc9dd1e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "777fc9dd1e6a9bb8c6a101840b6cc5ba807d2a52"
+  },
+  "_source": "git://github.com/vforeman/map-box.git",
+  "_target": "master",
+  "_originalSource": "vforeman/map-box",
+  "_direct": true
+}
